@@ -1,6 +1,4 @@
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sg126ZT1/a.png" group-title="Azərbaycan",AZTV★ ᵏᵃᵑᵏᵃ
-http://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3wvx7Q5T/ITV-Azerbaijan-Logo.png" group-title="Azərbaycan",İCTİMAİ TV ᵏᵃᵑᵏᵃ
 http://flussonic.izone.az:80/ictimaitv/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3wvx7Q5T/ITV-Azerbaijan-Logo.png" group-title="Azərbaycan",İCTİMAİ TV★ ᵏᵃᵑᵏᵃ
