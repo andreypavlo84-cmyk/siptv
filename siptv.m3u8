@@ -71,6 +71,32 @@ https://win8.yayin.com.tr/qurantv/qurantv/playlist.m3u8
 http://xantv.site:41480/MahniTV/video.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sXTSYxmV/In-Shot-20260203-232123504.png" group-title="Azərbaycan",GEM AZ 
 https://live-stream-channels-cdn.site/live/az.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png" group-title="Azərbaycan",AYAZ TV 
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/0QrvfpL0/In-Shot-20250516-082658023.png" group-title="Azərbaycan",TV1 
+https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/63jDjzzm/In-Shot-20250209-191253906.png" group-title="Azərbaycan",MCJ TV 
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN HD 
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN PLUS 
+https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN HİT 
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png" group-title="Azərbaycan",EL TV 
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/KYd9RVqF/In-Shot-20250209-195931309.png" group-title="Azərbaycan",SON ÜMİD TV 
+https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/fyZQ0k2w/In-Shot-20250209-204537485.png" group-title="Azərbaycan",KÖNÜL TV 
+http://cdn-konultvazerbaijan.yayin.com.tr:80/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/wML6HCTZ/IMG-20251005-114639.png" group-title="Azərbaycan",KTV MUSIC 
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/gj4LBjrj/In-Shot-20260128-113924945.png" group-title="Azərbaycan",TV36 
+http://cdn-stv.yayin.com.tr:80/stv/stv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/htRR3sWs/In-Shot-20260128-114102026.png" group-title="Azərbaycan",STV music 
+https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/h45ygd8j/In-Shot-20251221-113140643.png" group-title="Azərbaycan",RETRO TV 
+https://live20.bozztv.com/akamaissh101/ssh101/mega022/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/QCwHbbHk/In-Shot-20251013-085643705.png" group-title="Türkiyə"tvg-id="TRT1.tr",TRT 1 
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FRgvRzbt/In-Shot-20250511-132248185.png" group-title="Türkiyə",TRT 2 
@@ -92,3 +118,13 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/est
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48849
 #EXTINF:-1 group-title="TR_AZ_RU",TR: SHOW Turk HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/f/np/13872/Thumbnail.png?v=636996545585843191"group-title="D•SMART GO",ShowMax
+https://dsmartgo-live.ercdn.net/showmax/showmax.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3RxyZkD7/In-Shot-20251222-134959300.png" group-title="Azərbaycan",SPORT 1 
+http://87.246.54.249:8080/ArenaSport1/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/jjsCsDcx/In-Shot-20251222-135315487.png" group-title="Azərbaycan",SPORT 2 
+http://87.246.54.249:8080/ArenaSport2/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/hvx7XHdq/In-Shot-20251222-135523376.png" group-title="Azərbaycan",SPORT 3 
+http://87.246.54.249:8080/ArenaSport3/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/tgvD0SVZ/In-Shot-20251222-154409849.png" group-title="Azərbaycan",SETANTA GEORGIA 
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
