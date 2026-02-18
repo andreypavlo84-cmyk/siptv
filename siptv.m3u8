@@ -59,8 +59,6 @@ http://185.32.44.154/sehiyye/mono.m3u8
 http://stream.ftv.az/live/ftv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/RhQcR37m/In-Shot-20251012-193205227.png" group-title="Azərbaycan",SƏS TV 
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/L4g4WpVz/In-Shot-20260127-115900586.png" group-title="Azərbaycan",Rihat TV 
-https://cdn4.yayin.com.tr/rihattv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/DwZXkgsV/In-Shot-20260105-102529648.png" group-title="Azərbaycan",LİVE TV 
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/LsSPtY2s/In-Shot-20260215-102751626.png" group-title="Azərbaycan",atv cinema ᵏᵃᵑᵏᵃ
@@ -86,3 +84,5 @@ https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:-1 group-title="TR_AZ_RU",TR: SHOW TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48849
+#EXTINF:-1 group-title="TR_AZ_RU",TR: SHOW Turk HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
