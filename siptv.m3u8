@@ -65,6 +65,8 @@ https://tv.mobyservice.ru/livetv/index.m3u8
 http://boxviptv.com:25461/0519114447/0519114447/880
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png" group-title="Azərbaycan",KƏPƏZ TV 
 http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/5NpKMqZd/In-Shot-20251122-070517886.png" group-title="Azərbaycan",Kanal 5
+https://win8.yayin.com.tr/qurantv/qurantv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/QCwHbbHk/In-Shot-20251013-085643705.png" group-title="Türkiyə"tvg-id="TRT1.tr",TRT 1 
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FRgvRzbt/In-Shot-20250511-132248185.png" group-title="Türkiyə",TRT 2 
