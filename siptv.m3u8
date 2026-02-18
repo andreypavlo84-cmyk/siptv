@@ -1,10 +1,4 @@
-#EXTM3U x-tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml" url-tvg="https://streams.uzunmuhalefet.com/epg/tr.xml" tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
-#EXTINF:0 tvg-logo="https://i.postimg.cc/LsYk79fM/In-Shot-20251215-145341687.png" group-title="Azərbaycan",16.02.26 ᵏᵃᵑᵏᵃ
-https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/MHP8T5XB/In-Shot-20260126-135724654.png" group-title="Azərbaycan",https://t.me/kankatv ᵏᵃᵑᵏᵃ
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sg126ZT1/a.png" group-title="Azərbaycan",AZTV ᵏᵃᵑᵏᵃ
-http://flussonic.izone.az:80/aztv/mono.m3u8
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sg126ZT1/a.png" group-title="Azərbaycan",AZTV★ ᵏᵃᵑᵏᵃ
 http://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3wvx7Q5T/ITV-Azerbaijan-Logo.png" group-title="Azərbaycan",İCTİMAİ TV ᵏᵃᵑᵏᵃ
