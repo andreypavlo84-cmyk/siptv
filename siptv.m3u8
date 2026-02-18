@@ -55,8 +55,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/WpQsbxbw/S-hiyy-TV.png" group-title="Azərbaycan",STV 
 http://185.32.44.154/sehiyye/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/GtFktmht/In-Shot-20260105-102334493.png" group-title="Azərbaycan",AZSTAR TV 
-http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SKTndbFF/In-Shot-20250209-203240269.png" group-title="Azərbaycan",FTV 
 http://stream.ftv.az/live/ftv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/RhQcR37m/In-Shot-20251012-193205227.png" group-title="Azərbaycan",SƏS TV 
@@ -73,3 +71,7 @@ http://85.132.78.122:8050/hls/stream/index.m3u8
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FRgvRzbt/In-Shot-20250511-132248185.png" group-title="Türkiyə",TRT 2 
 https://streams.uzunmuhalefet.com/stream/daa339b4-807f-4111-b212-318ae5798801.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/YC4FPSR2/In-Shot-20250209-215704320.png" group-title="Türkiyə",TABİİ TV 
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/c1m5xDSg/TRT-T-rk-logo-svg.png" group-title="Türkiyə",TRT TURK 
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
