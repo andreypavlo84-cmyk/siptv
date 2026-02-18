@@ -1,0 +1,105 @@
+#EXTM3U x-tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml" url-tvg="https://streams.uzunmuhalefet.com/epg/tr.xml" tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
+#EXTINF:0 tvg-logo="https://i.postimg.cc/LsYk79fM/In-Shot-20251215-145341687.png" group-title="Azərbaycan",16.02.26 ᵏᵃᵑᵏᵃ
+https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/MHP8T5XB/In-Shot-20260126-135724654.png" group-title="Azərbaycan",https://t.me/kankatv ᵏᵃᵑᵏᵃ
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sg126ZT1/a.png" group-title="Azərbaycan",AZTV ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/aztv/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sg126ZT1/a.png" group-title="Azərbaycan",AZTV★ ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3wvx7Q5T/ITV-Azerbaijan-Logo.png" group-title="Azərbaycan",İCTİMAİ TV ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/ictimaitv/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3wvx7Q5T/ITV-Azerbaijan-Logo.png" group-title="Azərbaycan",İCTİMAİ TV★ ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/ictimaitele/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/0Q12yXPJ/M-d-niyy-t-TV-loqo.png" group-title="Azərbaycan", MƏDƏNİYYƏT TV ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/medeniyyet/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/0Q12yXPJ/M-d-niyy-t-TV-loqo.png" group-title="Azərbaycan", MƏDƏNİYYƏT TV★ ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/T1YxKZSh/785cfca9083712aedfed84b91a0f00e8.png" group-title="Azərbaycan",ATV ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/azadazerbaycan/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/T1YxKZSh/785cfca9083712aedfed84b91a0f00e8.png" group-title="Azərbaycan",ATV★ ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/atv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/bYFW0DSm/X-z-r-TV-2023.png" group-title="Azərbaycan",XƏZƏR TV ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/xezertv/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/bYFW0DSm/X-z-r-TV-2023.png" group-title="Azərbaycan",XƏZƏR TV★ ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/c1Qrztms/In-Shot-20251103-071346014.png" group-title="Azərbaycan",SPACE TV ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/spacetv/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/c1Qrztms/In-Shot-20251103-071346014.png" group-title="Azərbaycan",SPACE TV★ ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/space/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/zfJxY8RL/ARB-Media-Qrup.png" group-title="Azərbaycan" ,ARB TV ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/arb/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/zfJxY8RL/ARB-Media-Qrup.png" group-title="Azərbaycan" ,ARB TV★ ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/hjvMhssc/ARB-24.png" group-title="Azərbaycan" ,ARB 24 ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/arb24/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/hjvMhssc/ARB-24.png" group-title="Azərbaycan" ,ARB 24★ ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/4nk1Lggx/ARB-Gunesh-Logo.png" group-title="Azərbaycan",ARB GÜNƏŞ ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/arbgunesh/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/4nk1Lggx/ARB-Gunesh-Logo.png" group-title="Azərbaycan",ARB GÜNƏŞ★ ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/pXfSw016/hd-logo.png" group-title="Azərbaycan",BAKU TV ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/pXfSw016/hd-logo.png" group-title="Azərbaycan",BAKU TV★ ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/bakutv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/KcNLCBD5/Real-TV-Azerbaijan-Logo.png" group-title="Azərbaycan",REAL TV ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/realtv/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/KcNLCBD5/Real-TV-Azerbaijan-Logo.png" group-title="Azərbaycan",REAL TV★ ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/real/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3w4FTNxx/CBC-Sport-TV-loqo.png" group-title="Azərbaycan",CBC SPORT ᵏᵃᵑᵏᵃ
+http://erlyvideo.izone.az:80/cbcsporthd/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3w4FTNxx/CBC-Sport-TV-loqo.png" group-title="Azərbaycan",CBC SPORT★ ᵏᵃᵑᵏᵃ
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivecbcs.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/7LfmZXmD/dman-TV-logo.png" group-title="Azərbaycan",IDMAN TV ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/idmanaz/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/7LfmZXmD/dman-TV-logo.png" group-title="Azərbaycan",IDMAN TV★ ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/idmantele/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/8cBDyLJJ/In-Shot-20250209-204416916.png" group-title="Azərbaycan",MTV ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/muztvaz/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/8cBDyLJJ/In-Shot-20250209-204416916.png" group-title="Azərbaycan",MTV★ ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/mtvaz/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/7YG1Fbst/D-nya-TV-2019-h-h.png" group-title="Azərbaycan",DÜNYA TV ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/BbWhyD53/CBC-Azerbaijan-Logo.png" group-title="Azərbaycan",CBC ᵏᵃᵑᵏᵃ
+http://flussonic.izone.az:80/cbc/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/BbWhyD53/CBC-Azerbaijan-Logo.png" group-title="Azərbaycan",CBC★ ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/cbc/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/QCbpbW00/Gunaz-tv-svg.png" group-title="Azərbaycan",GÜNAZ TV ᵏᵃᵑᵏᵃ
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png" group-title="Azərbaycan",QAFQAZ TV ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/qafkaz/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/ZY355z4D/In-Shot-20251027-110042165.png" group-title="Azərbaycan",NAXÇIVAN TV ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/ry97JfJr/In-Shot-20251027-110247292.png" group-title="Azərbaycan",APA TV ᵏᵃᵑᵏᵃ
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png" group-title="Azərbaycan",KANAL 35 ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/cLCZDtGQ/In-Shot-20251005-112521461.png" group-title="Azərbaycan",BİZNES TV ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Y0FB5zLk/In-Shot-20250504-164130011.png" group-title="Azərbaycan",VIP HD ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png" group-title="Azərbaycan",KANAL S ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/283RpW3X/Logo-gold-font.png" group-title="Azərbaycan",SHOW PLUS ᵏᵃᵑᵏᵃ
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HsRz4Mfp/In-Shot-20251027-110432000.png" group-title="Azərbaycan",TMB AZ ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/NfmDy569/2018.png" group-title="Azərbaycan",VOSTOK TV ᵏᵃᵑᵏᵃ
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/WpQsbxbw/S-hiyy-TV.png" group-title="Azərbaycan",STV ᵏᵃᵑᵏᵃ
+http://185.32.44.154/sehiyye/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/GtFktmht/In-Shot-20260105-102334493.png" group-title="Azərbaycan",AZSTAR TV ᵏᵃᵑᵏᵃ
+http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKTndbFF/In-Shot-20250209-203240269.png" group-title="Azərbaycan",FTV ᵏᵃᵑᵏᵃ
+http://stream.ftv.az/live/ftv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/RhQcR37m/In-Shot-20251012-193205227.png" group-title="Azərbaycan",SƏS TV ᵏᵃᵑᵏᵃ
+http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/L4g4WpVz/In-Shot-20260127-115900586.png" group-title="Azərbaycan",Rihat TV ᵏᵃᵑᵏᵃ
+https://cdn4.yayin.com.tr/rihattv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/DwZXkgsV/In-Shot-20260105-102529648.png" group-title="Azərbaycan",LİVE TV ᵏᵃᵑᵏᵃ
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/LsSPtY2s/In-Shot-20260215-102751626.png" group-title="Azərbaycan",atv cinema ᵏᵃᵑᵏᵃ
+http://boxviptv.com:25461/0519114447/0519114447/880
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png" group-title="Azərbaycan",KƏPƏZ TV ᵏᵃᵑᵏᵃ
+http://85.132.78.122:8050/hls/stream/index.m3u8
