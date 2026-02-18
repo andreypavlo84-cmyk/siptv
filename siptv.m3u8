@@ -19,9 +19,9 @@ http://flussonic.izone.az:80/arb24/mono.m3u8
 http://flussonic.izone.az:80/arbgunesh/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pXfSw016/hd-logo.png" group-title="Azərbaycan",BAKU TV 
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/KcNLCBD5/Real-TV-Azerbaijan-Logo.png" group-title="Azərbaycan",REAL TV ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/KcNLCBD5/Real-TV-Azerbaijan-Logo.png" group-title="Azərbaycan",REAL TV 
 http://flussonic.izone.az:80/realtv/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/3w4FTNxx/CBC-Sport-TV-loqo.png" group-title="Azərbaycan",CBC SPORT ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3w4FTNxx/CBC-Sport-TV-loqo.png" group-title="Azərbaycan",CBC SPORT 
 http://erlyvideo.izone.az:80/cbcsporthd/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7LfmZXmD/dman-TV-logo.png" group-title="Azərbaycan",IDMAN TV 
 http://flussonic.izone.az:80/idmanaz/mono.m3u8
@@ -65,7 +65,7 @@ https://cdn4.yayin.com.tr/rihattv/index.m3u8
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/LsSPtY2s/In-Shot-20260215-102751626.png" group-title="Azərbaycan",atv cinema ᵏᵃᵑᵏᵃ
 http://boxviptv.com:25461/0519114447/0519114447/880
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png" group-title="Azərbaycan",KƏPƏZ TV ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png" group-title="Azərbaycan",KƏPƏZ TV 
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/QCwHbbHk/In-Shot-20251013-085643705.png" group-title="Türkiyə"tvg-id="TRT1.tr",TRT 1 
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
@@ -76,5 +76,11 @@ https://streams.uzunmuhalefet.com/stream/daa339b4-807f-4111-b212-318ae5798801.m3
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/c1m5xDSg/TRT-T-rk-logo-svg.png" group-title="Türkiyə",TRT TURK 
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Y2bmqFyq/Logo-Kanal-D-svg.png" group-title="Türkiyə",KANAL D ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Y2bmqFyq/Logo-Kanal-D-svg.png" group-title="Türkiyə",KANAL D 
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7te08khb0uxy&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:0 tvg-logo="https://i.postimg.cc/gjTVwLs5/logo-v5.png" group-title="Türkiyə",EURO D 
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/rFH05kkB/Star-TV-svg.png" group-title="Türkiyə",STAR TV 
+https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/yxQPFb1L/Euro-Star-loqosu-3-yanvar-2012-indi.png" group-title="Türkiyə",EUROSTAR 
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
