@@ -84,3 +84,5 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/yxQPFb1L/Euro-Star-loqosu-3-yanvar-2012-indi.png" group-title="Türkiyə",EUROSTAR 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+#EXTINF:-1 group-title="TR_AZ_RU",TR: SHOW TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48849
