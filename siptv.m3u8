@@ -239,6 +239,8 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="DHA.tr@SD",DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 tvg-id="GZT.tr@SD",GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr@SD",Bloomberg HT
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 EXTINF:-1 tvg-id="CNBCe.tr@SD",CNBC-e
