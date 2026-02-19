@@ -120,6 +120,8 @@ https://streams.uzunmuhalefet.com/stream/daa339b4-807f-4111-b212-318ae5798801.m3
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/YC4FPSR2/In-Shot-20250209-215704320.png" group-title="Türkiyə",TABİİ TV 
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xCQtYmp3/TRT-Avaz.png" group-title="Türkiyə",TRT AVAZ 
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/c1m5xDSg/TRT-T-rk-logo-svg.png" group-title="Türkiyə",TRT TURK 
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Y2bmqFyq/Logo-Kanal-D-svg.png" group-title="Türkiyə",KANAL D 
@@ -146,7 +148,7 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pTPpPVfF/TV-8-5-TR-logo-v2.png" group-title="Türkiyə",TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/13NgHjRf/unnamed-1.png" group-title="Türkiyə",BEYAZ TV ᵏᵃᵑᵏᵃ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/13NgHjRf/unnamed-1.png" group-title="Türkiyə",BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae@SD",Al Yaum TV (1080p)
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
