@@ -123,6 +123,8 @@ https://cdn.ntv.ru/th_style/playlist.m3u8
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru@SD",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
+#EXTINF:-1 tvg-id="RENTVInternational.ru@SD",РЕН ТВ International
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 tvg-id="Mir.ru@SD",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru@SD",Мир 24 
