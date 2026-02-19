@@ -97,6 +97,8 @@ http://cdn-stv.yayin.com.tr:80/stv/stv/playlist.m3u8
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/h45ygd8j/In-Shot-20251221-113140643.png" group-title="Azərbaycan",RETRO TV 
 https://live20.bozztv.com/akamaissh101/ssh101/mega022/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="DomashniyInternational.ru@SD",Домашний International
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 #EXTINF:-1 tvg-id="Izvestia.ru@SD",Известия
