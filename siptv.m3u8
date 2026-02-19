@@ -119,6 +119,8 @@ https://cdn.ntv.ru/th_hit/playlist.m3u8
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru@SD",360°
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru@SD",Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="Qazaqstan.kz@SD",Qazaqstan TV
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:-1 tvg-id="QazaqstanInternational.kz@SD",Qazaqstan International
