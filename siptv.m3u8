@@ -206,6 +206,8 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="TV4.tr@SD",TV4 
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="TYTTurk.tr@SD",TYT Turk
+https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 #EXTINF:-1 tvg-id="MeltemTV.tr@SD",Meltem TV 
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8.
 #EXTINF:-1 tvg-id="Sat7Turk.cy@SD",Sat7 Türk
