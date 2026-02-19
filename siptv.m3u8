@@ -380,6 +380,8 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlZahraTVTurkic.tr@SD",Al-Zahra TV Turkic
 https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="LalegulTV.tr@SD",Lalegul TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr@SD",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlmahriahTV.tr@SD",Almahriah TV 
