@@ -751,13 +751,13 @@ https://ghaasiflu.online/alhqeqa/index.m3u8
 https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
 #EXTINF:-1 tvg-id="AmmanTV.jo@SD",Amman TV 
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 tvg-id="MelodyFM.jo@SD",Melody FM Jordan (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MelodyFM.jo@SD",Melody FM Jordan 
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioFannJordanStudio.jo@SD",Radio Fann Jordan Studio (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioFannJordanStudio.jo@SD",Radio Fann Jordan Studio 
 http://45.63.116.205/hls2/stream1.m3u8
-#EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo@SD",Radio Yaqeen Jordan City View (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo@SD",Radio Yaqeen Jordan City View
 http://45.63.116.205/hls4/stream1.m3u8
-#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD",Rotana Radio Jordan Studio (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD",Rotana Radio Jordan Studio 
 http://45.63.116.205/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="RoyaComedy.jo@SD",Roya Comedy 
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
@@ -770,6 +770,24 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/pla
 #EXTINF:-1 tvg-id="RoyaKitchen.jo@SD",Roya Kitchen 
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AlalamNewsChannelSyria.sy@SD",Alalam News Channel Syria
+https://live2.alalam.ir/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-id="Althania.sy@SD",Althania
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HalabTodayTV.sy@SD",Halab Today TV (1080p)
+https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
+#EXTINF:-1 tvg-id="LanaTV.lb@SD",LTV (360p)
+https://p-ltv.akamaized.net/ltv/ltv.m3u8
+#EXTINF:-1 tvg-id="RojavaTV.sy@SD",Rojava TV (1080p)
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+#EXTINF:-1 tvg-id="RonahiTV.sy@SD",Ronahi TV (1080p)
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+#EXTINF:-1 tvg-id="SyriaOne.sy@HD",Syria One (1080p)
+https://live.syriaone.tv/live/syriaone.m3u8
+#EXTINF:-1 tvg-id="SyriaTV.sy@SD",Syria TV (1080p)
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="WelatTV.sy@HD",Welat TV (1080i)
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr@SD",Persiana Comedy
