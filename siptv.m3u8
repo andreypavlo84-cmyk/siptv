@@ -314,6 +314,8 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 EXTINF:-1 tvg-id="CNBCe.tr@SD",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="AfroturkTV.tr@SD",Afroturk TV (1080p)
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr@SD",BFM TV (1080p)
