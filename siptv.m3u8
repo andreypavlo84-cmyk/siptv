@@ -406,6 +406,8 @@ https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDen.tr@SD",TV Den 
 http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/N/Oj/96692/Thumbnail.png?v=638597449150404142"group-title="D•SMART GO",Haber Çoklu Ekran
+https://dsmartgo-live.ercdn.net/habermozaik/habermozaik.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/L/oz/13722/Thumbnail.png?v=636958840911967163"group-title="D•SMART GO",A Haber
