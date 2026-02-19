@@ -360,6 +360,8 @@ https://cnbc-live.akamaized.net/cnbc/master.m3u8
 https://stream.skynewsarabia.com/ott/ott.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr@SD",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsTV.tr@SD",Sports TV 
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3RxyZkD7/In-Shot-20251222-134959300.png" group-title="Azərbaycan",SPORT 1 
 http://87.246.54.249:8080/ArenaSport1/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/jjsCsDcx/In-Shot-20251222-135315487.png" group-title="Azərbaycan",SPORT 2 
