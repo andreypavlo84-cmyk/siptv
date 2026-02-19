@@ -1,2 +1,4 @@
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sg126ZT1/a.png" group-title="Azərbaycan",AZTV
 http://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/0Q12yXPJ/M-d-niyy-t-TV-loqo.png" group-title="Azərbaycan", Mədəniyyət tv 
+http://str.yodacdn.net/medeniyyettele/index.m3u8
