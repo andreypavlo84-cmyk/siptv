@@ -145,6 +145,8 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru@SD",КИНОТВ
 https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-id="Patriot.ru@SD",Патриот
+http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="Pro100TV.ru@SD",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="Qazaqstan.kz@SD",Qazaqstan TV
