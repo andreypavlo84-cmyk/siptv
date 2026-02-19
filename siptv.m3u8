@@ -408,6 +408,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee2
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/L/oz/13722/Thumbnail.png?v=636958840911967163"group-title="D•SMART GO",A Haber
+https://dsmartgo-live.ercdn.net/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/a/u2/11786/Thumbnail.png?v=638688084958908188"group-title="D•SMART GO",CNN Türk
 https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr@SD",Haber Global
