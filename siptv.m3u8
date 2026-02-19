@@ -170,6 +170,10 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ATV.tr@SD",ATV 
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 tvg-id="ATV.tr@SD",ATV HD
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="ATV.tr@SD",ATV HD 1
+http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Y2bmqFyq/Logo-Kanal-D-svg.png" group-title="Türkiyə",KANAL D 
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7te08khb0uxy&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:0 tvg-logo="https://i.postimg.cc/gjTVwLs5/logo-v5.png" group-title="Türkiyə",EURO D 
