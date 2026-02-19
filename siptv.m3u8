@@ -308,6 +308,8 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaviKaradenizTV.tr@SD",MK HABER
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1 tvg-id="TurkHaberTV.tr@SD",TürkHaber
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TBMMTV.tr@SD",TBMM TV 
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr@SD",Bloomberg HT
