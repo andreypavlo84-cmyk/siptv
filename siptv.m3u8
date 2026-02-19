@@ -490,6 +490,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&sta
 #EXTINF:-1 tvg-id="BFMVar.fr@SD",BFM Toulon Var (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="AlAlam.ir@SD",AlAlam
+https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae@SD",Al Yaum TV (1080p)
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD",Al Arabiya (1080p)
