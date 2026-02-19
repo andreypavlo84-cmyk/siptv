@@ -97,6 +97,23 @@ http://cdn-stv.yayin.com.tr:80/stv/stv/playlist.m3u8
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/h45ygd8j/In-Shot-20251221-113140643.png" group-title="Azərbaycan",RETRO TV 
 https://live20.bozztv.com/akamaissh101/ssh101/mega022/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="Asgabat.tm@SD",Aşgabat 
+https://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:-1 tvg-id="AltynAsyr.tm@SD",Altyn Asyr 
+https://alpha.tv.online.tm/hls/ch001.m3u8
+#EXTINF:-1 tvg-id="ArkadagTV.tm@SD",Arkadag TV 
+https://alpha.tv.online.tm/hls/ch000.m3u8
+#EXTINF:-1 tvg-id="Miras.tm@SD",Miras 
+https://alpha.tv.online.tm/hls/ch003.m3u8
+#EXTINF:-1 tvg-id="Turkmenistan.tm@SD",Türkmenistan 
+https://alpha.tv.online.tm/hls/ch007.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm@SD",Türkmenistan Sport 
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 tvg-id="TurkmenOwazy.tm@SD",Türkmen Owazy 
+https://alpha.tv.online.tm/hls/ch005.m3u8
+#EXTINF:-1 tvg-id="Yaslyk.tm@SD",Ýaşlyk
+https://alpha.tv.online.tm/hls/ch002.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/QCwHbbHk/In-Shot-20251013-085643705.png" group-title="Türkiyə"tvg-id="TRT1.tr",TRT 1 
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FRgvRzbt/In-Shot-20250511-132248185.png" group-title="Türkiyə",TRT 2 
