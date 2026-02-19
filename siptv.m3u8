@@ -408,6 +408,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee2
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF; -1 tvg-id="Cnnturk.tr@SD",CNN TÜRK
+https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr@SD",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr@SD",Habertürk TV
