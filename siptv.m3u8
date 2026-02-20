@@ -201,6 +201,8 @@ http://tv.devtv.nl:80/Trexx/Trex1fhgd2z/5540
 http://tv.devtv.nl:80/Trexx/Trex1fhgd2z/5551
 #EXTINF:0 tvg-logo="https://i.postimg.cc/mDr1Q2PG/Yabantv-logo.png" group-title="Türkiyə",YABAN TV
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:0 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png" group-title="Azərbaycan",Tom and Jerry 
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="МУЗЫКА", ПЕРВЫЙ МУЗЫКАЛЬНЫЙ
