@@ -155,6 +155,8 @@ http://104.238.23.221/BoncukTV/live/index.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/LXbJmkPz/In-Shot-20251127-205719828.png" group-title="Türkiyə",EGEMAX TV
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Zn02NH82/In-Shot-20251214-115802475.png" group-title="Türkiyə",KOZA TV 
+http://tv.devtv.nl:80/Trexx/Trex1fhgd2z/5907
 #EXTINF:-1 tvg-id="3"tvg-logo="https://i.postimg.cc/HsY46nFr/In-Shot-20251214-120450045.png"group-title="Türkiyə",ŞABAN TV
 https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PrV9Cdjw/In-Shot-20260125-161736480.png" group-title="Türkiyə",SZC
