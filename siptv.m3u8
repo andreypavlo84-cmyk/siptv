@@ -51,6 +51,16 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@SD",Первый Музыкальный Канал Россия HD 
 http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="BRIDGE.ru@SD",BRIDGE
+http://31.148.48.15/Bridge_TV/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD",BRIDGE Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru@SD",BRIDGE Deluxe
+http://31.148.48.15/Bridge_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEHits.ru@SD",BRIDGE Hits
+http://31.148.48.15/Bridge_TV_Dance/index.m3u8
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru@SD",Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="Общественные",Красная линия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
