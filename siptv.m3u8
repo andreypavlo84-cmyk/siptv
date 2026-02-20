@@ -16,6 +16,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/hjvMhssc/ARB-24.png" group-title="Azərbaycan" ,ARB 24
 http://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/4nk1Lggx/ARB-Gunesh-Logo.png" group-title="Azərbaycan",ARB GÜNƏŞ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/ry97JfJr/In-Shot-20251027-110247292.png" group-title="Azərbaycan",APA TV
 https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pXfSw016/hd-logo.png" group-title="Azərbaycan",BAKU TV 
