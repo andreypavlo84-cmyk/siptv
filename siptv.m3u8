@@ -65,6 +65,12 @@ https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/RhQcR37m/In-Shot-20251012-193205227.png" group-title="Azərbaycan",SƏS TV 
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN HD 
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN PLUS 
+https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN HİT 
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 EXTINF:0 tvg-logo="https://i.postimg.cc/tJRmj6vV/In-Shot-20250209-204833425.png" group-title="Azərbaycan",ZAHRA TV 
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqNdMwTt/In-Shot-20250502-204654847.png" group-title="Azərbaycan",KANAL 12
