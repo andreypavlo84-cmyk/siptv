@@ -1,20 +1,18 @@
-#EXTINF;-1,TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 group-title="МУЗЫКА", ПЕРВЫЙ МУЗЫКАЛЬНЫЙ
-http://rtmp.one.by:1200
-#EXTINF:-1 group-title="МУЗЫКА", 1MUS
+#EXTINF:-1 tvg-id="PerviyInformationniy.by@SD",Первый информационный
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by@SD",Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus24.by@SD",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="STV.by@SD",СТБ
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FirstMusicChannel.by@SD",Первый Музыкальный Канал (576p)
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 tvg-id="FirstMusicChannel.by@SD",Первый Музыкальный Канал HD
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="МУЗЫКА", ПЕРВЫЙ МУЗЫКАЛЬНЫЙ РОССИЯ
+#EXTINF:-1 tvg-id="FirstMusicChannel.by@SD",Первый Музыкальный Канал HD 
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@SD",Первый Музыкальный Канал Россия 
 http://rtmp.one.by:2200
-#EXTINF:-1 group-title="МУЗЫКА", ПЕРВЫЙ МУЗЫКАЛЬНЫЙ HD (РОССИЯ)
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@SD",Первый Музыкальный Канал Россия HD 
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="МУЗЫКА", MTV EUROPE
-http://157.143.44.195/play/a06h
-#EXTINF:0 tvg-logo="https://i.postimg.cc/3w6YccZx/In-Shot-20251023-174019632.png" group-title="Türkiyə",DİYANET TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/vmnNG2sD/In-Shot-20251023-174304995.png" group-title="Türkiyə",SEMERKAND TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 group-title="КИНО", КИНОСЕРИЯ
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
-#EXTINF:-1 group-title="КИНО", КИНОУЖАС
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
