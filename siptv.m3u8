@@ -173,18 +173,18 @@ https://canli.tvden.com.tr/hls/live.m3u8
 https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PrV9Cdjw/In-Shot-20260125-161736480.png" group-title="Türkiyə",SZC
 http://65.108.239.207/sozcutv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="СПОРТ", A SPOR
-http://116.202.238.88/ASPOR_TR/index.m3u8
-#EXTINF:-1 group-title="СПОРТ", TR SPOR TV
-http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ", SKY SPORTS PREMIER LEAGUE HD
-https://a1xs.vip/700008
-#EXTINF:-1 group-title="СПОРТ", NILE SPORT
-http://149.100.11.235:8080/NileSport/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/yYNFgBdB/In-Shot-20251109-104256454.png" group-title="Türkiyə",TELENEWS
 https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/J4v5ZrMp/In-Shot-20251027-075742289.png" group-title="Türkiyə",TBMM
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 group-title="СПОРТ", A SPOR
+http://116.202.238.88/ASPOR_TR/index.m3u8
+#EXTINF:-1 group-title="СПОРТ", TR SPOR TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТ", BEIN SPORTS Arabia
+http://154.197.91.169:8000/play/a0f3/index.m3u8
+#EXTINF:-1 group-title="СПОРТ", NILE SPORT
+http://149.100.11.235:8080/NileSport/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SRBXF6Dy/TGRT-Belgesel-logo.png" group-title="Türkiyə",TGRT BELGESEL
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FFTgSdWH/In-Shot-20251121-193731341.png" group-title="Türkiyə",CGTN TURK
