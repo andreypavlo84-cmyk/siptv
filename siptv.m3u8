@@ -219,3 +219,7 @@ http://157.143.44.195/play/a06h
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/vmnNG2sD/In-Shot-20251023-174304995.png" group-title="Türkiyə",SEMERKAND TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 group-title="КИНО", КИНОСЕРИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="КИНО", КИНОУЖАС
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
