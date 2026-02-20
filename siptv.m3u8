@@ -151,6 +151,8 @@ https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://i.postimg.cc/QM6JRhF2/In-Shot-20260111-083308238.png"group-title="Türkiyə",Boncuk Tv
 http://104.238.23.221/BoncukTV/live/index.m3u8
+#EXTINF:-1 tvg-id="3"tvg-logo="https://i.postimg.cc/y8gV2XJj/In-Shot-20251225-192536560.png"group-title="Türkiyə",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/LXbJmkPz/In-Shot-20251127-205719828.png" group-title="Türkiyə",EGEMAX TV
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://i.postimg.cc/HsY46nFr/In-Shot-20251214-120450045.png"group-title="Türkiyə",ŞABAN TV
