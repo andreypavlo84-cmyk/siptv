@@ -171,6 +171,8 @@ http://145.239.58.133:28008/kanalg/kanalg/playlist.m3u8
 https://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://i.postimg.cc/HsY46nFr/In-Shot-20251214-120450045.png"group-title="Türkiyə",ŞABAN TV
 https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
+#EXTINF:-1 group-title="XƏBƏR",Trt Haber
+https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PrV9Cdjw/In-Shot-20260125-161736480.png" group-title="Türkiyə",SZC
 http://65.108.239.207/sozcutv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/yYNFgBdB/In-Shot-20251109-104256454.png" group-title="Türkiyə",TELENEWS
