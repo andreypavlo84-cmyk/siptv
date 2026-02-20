@@ -91,6 +91,12 @@ https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 http://cdn-stv.yayin.com.tr:80/stv/stv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/QCwHbbHk/In-Shot-20251013-085643705.png" group-title="Türkiyə"tvg-id="TRT1.tr",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/FRgvRzbt/In-Shot-20250511-132248185.png" group-title="Türkiyə",TRT 2 
+https://streams.uzunmuhalefet.com/stream/daa339b4-807f-4111-b212-318ae5798801.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/5tGFB0YB/In-Shot-20260111-083605419.png" group-title="Türkiyə",TRT GENÇ 
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/YC4FPSR2/In-Shot-20250209-215704320.png" group-title="Türkiyə",TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png" group-title="Azərbaycan",Tom and Jerry 
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
