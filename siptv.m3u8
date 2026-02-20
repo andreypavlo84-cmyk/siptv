@@ -79,8 +79,6 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN HD 
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN PLUS 
-https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN HİT 
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/h45ygd8j/In-Shot-20251221-11310643.png" group-title="Azərbaycan",RETRO TV 
@@ -103,6 +101,8 @@ https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PxH8NQjN/Atv-logo-2010-svg.png" group-title="Türkiyə",ATV 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ATV 1
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/P5htk9s7/In-Shot-20251013-085014446.png" group-title="Türkiyə",ATV AVRUPA 
 https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/RF3VS33q/In-Shot-20250209-221958572.png" group-title="Türkiyə",A2 TV
