@@ -6,6 +6,8 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Vremya.ru@SD",Время
 http://31.148.48.15/Vremya/index.m3u8
+#EXTINF:-1 tvg-id="India.ru@SD",Индия
+http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Rusiya",RTVi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://178.134.1.158:8081/rtvi/index.m3u8
