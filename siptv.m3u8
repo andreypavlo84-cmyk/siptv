@@ -1,7 +1,13 @@
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Rusiya",1 канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="STSLove.ru@SD",СТС Love
+http://31.148.48.15/STS_Love/index.m3u8
+#EXTINF:-1 tvg-id="Che.ru@SD",Че!
+http://31.148.48.15/Che/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Общественные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD",Телекафе
+http://31.148.48.15/Telekafe/index.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Rusiya",360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Vremya.ru@SD",Время
@@ -38,10 +44,20 @@ https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae@SD",Sky News Arabia
 https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:-1 tvg-id="Football.ru@SD",Футбол
+http://31.148.48.15/Futbol_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru@HD",Матч! Страна
+http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1 tvg-id="Ani.ru@SD",Ani
 http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru@HD",Карусель
+http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru@SD",STS kids
 http://31.148.48.15/STS_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-id="Ryzhiy.ru@SD",Рыжий
+http://31.148.48.15/Rizhiy/index.m3u8
+#EXTINF:-1 tvg-id="Unikum.ru@SD",Уникум
+http://31.148.48.15/Detskiy/index.m3u8
 #EXTINF:-1 tvg-id="AutoPlus.ru@SD",Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 tvg-id="cctv-ru" tvg-logo="https://iptvx.one/picons/cctv-ru.png" group-title="Общественные",CGTN
@@ -49,6 +65,8 @@ http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 #EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru@SD",История
+http://31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD",Живая Планета
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
 #EXTINF:-1 tvg-id="Zhivi.ru@SD",ЖИВИ!
@@ -78,6 +96,32 @@ http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="Общественные",Красная линия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="A1.ru@SD",Amedia 1
+http://31.148.48.15/A1/index.m3u8
+#EXTINF:-1 tvg-id="A2.ru@SD",Amedia 2
+http://31.148.48.15/A2/index.m3u8
+#EXTINF:-1 tvg-id="Evrokino.ru@SD",Еврокино
+http://31.148.48.15/Evrokino/index.m3u8
+#EXTINF:-1 tvg-id="IllusionPlus.ru@SD",Иллюзион+
+http://31.148.48.15/Illusion_plus/index.m3u8
+#EXTINF:-1 tvg-id="KVNTV.ru@SD",КВН ТВ
+http://31.148.48.15/KVN_TV/index.m3u8
+#EXTINF:-1 tvg-id="Kinopokaz.ru@SD",Кинопоказ
+http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru@SD",Поехали!
+http://31.148.48.15/Poehali/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD",Русский Бестселлер
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD",Русский Детектив
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 tvg-id="Russkiyroman.ru@SD",Русский Роман
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-id="Teatr.ru@SD",Театр
+http://31.148.48.15/Sochi_HD/index.m3u8
+#EXTINF:-1 tvg-id="Teleputeshestviya.ru@SD",Телепутешествия
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 tvg-id="FeniksplusKino.ru@SD",Феникс плюс Кино
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-id="AjmanTV.ae@SD",Ajman TV🇦🇪
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlWoustaTV.ae@SD",Al Wousta TV 
