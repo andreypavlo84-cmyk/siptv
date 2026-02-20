@@ -75,6 +75,8 @@ https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
 http://cdn-konultvazerbaijan.yayin.com.tr:80/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/wML6HCTZ/IMG-20251005-114639.png" group-title="Azərbaycan",KTV MUSIC 
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/mr8vgLrr/Adsiz-tasarim-4.png" group-title="Azərbaycan",KN TV 
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN HD 
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png" group-title="Azərbaycan",MUSİC AZERBAYCAN PLUS 
