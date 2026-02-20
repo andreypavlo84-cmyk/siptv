@@ -89,6 +89,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/mega022/playlist.m3u8
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/gj4LBjrj/In-Shot-20260128-113924945.png" group-title="Azərbaycan",TV36 
 http://cdn-stv.yayin.com.tr:80/stv/stv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/QCwHbbHk/In-Shot-20251013-085643705.png" group-title="Türkiyə"tvg-id="TRT1.tr",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png" group-title="Azərbaycan",Tom and Jerry 
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
