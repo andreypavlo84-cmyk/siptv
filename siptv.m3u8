@@ -187,6 +187,14 @@ http://tv.devtv.nl:80/Trexx/Trex1fhgd2z/5551
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png" group-title="Azərbaycan",Tom and Jerry 
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="МУЗЫКА", ПЕРВЫЙ МУЗЫКАЛЬНЫЙ
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="МУЗЫКА", 1MUS
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="МУЗЫКА", ПЕРВЫЙ МУЗЫКАЛЬНЫЙ РОССИЯ
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="МУЗЫКА", ПЕРВЫЙ МУЗЫКАЛЬНЫЙ HD (РОССИЯ)
+http://rtmp.one.by:2300
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3w6YccZx/In-Shot-20251023-174019632.png" group-title="Türkiyə",DİYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/vmnNG2sD/In-Shot-20251023-174304995.png" group-title="Türkiyə",SEMERKAND TV
