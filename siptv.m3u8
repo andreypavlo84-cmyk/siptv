@@ -65,3 +65,5 @@ https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/RhQcR37m/In-Shot-20251012-193205227.png" group-title="Azərbaycan",SƏS TV 
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
+EXTINF:0 tvg-logo="https://i.postimg.cc/tJRmj6vV/In-Shot-20250209-204833425.png" group-title="Azərbaycan",ZAHRA TV 
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
