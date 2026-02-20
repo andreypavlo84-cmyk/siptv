@@ -169,6 +169,8 @@ https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SRBXF6Dy/TGRT-Belgesel-logo.png" group-title="Türkiyə",TGRT BELGESEL
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/FFTgSdWH/In-Shot-20251121-193731341.png" group-title="Türkiyə",CGTN TURK
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqyrBMLN/In-Shot-20260102-231141578.png" group-title="Türkiyə",BBC EARTH
 http://65.108.239.207/bbc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Wb7Q3VvK/In-Shot-20260111-160647988.png" group-title="Türkiyə",INVESTIGATION DISCOVERY
@@ -183,4 +185,7 @@ http://tv.devtv.nl:80/Trexx/Trex1fhgd2z/5551
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png" group-title="Azərbaycan",Tom and Jerry 
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3w6YccZx/In-Shot-20251023-174019632.png" group-title="Türkiyə",DİYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/vmnNG2sD/In-Shot-20251023-174304995.png" group-title="Türkiyə",SEMERKAND TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
