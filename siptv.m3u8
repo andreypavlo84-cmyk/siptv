@@ -211,6 +211,8 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="МУЗЫКА", ПЕРВЫЙ МУЗЫКАЛЬНЫЙ HD (РОССИЯ)
 http://rtmp.one.by:2300
+#EXTINF:-1 group-title="МУЗЫКА", MTV EUROPE
+http://157.143.44.195/play/a06h
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3w6YccZx/In-Shot-20251023-174019632.png" group-title="Türkiyə",DİYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/vmnNG2sD/In-Shot-20251023-174304995.png" group-title="Türkiyə",SEMERKAND TV
