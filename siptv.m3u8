@@ -16,6 +16,9 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="cctv-ru" tvg-logo="https://iptvx.one/picons/cctv-ru.png" group-title="Общественные",CGTN
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="Общественные",TV BRICS HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD",Первый Музыкальный Канал (576p)
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD",Первый Музыкальный Канал HD
