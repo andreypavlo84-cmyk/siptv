@@ -14,6 +14,8 @@ https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8
 https://str.yodacdn.net/arb/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,KANAL S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1, QAFQAZ TV
+http://str.yodacdn.net/qafkaz/index.m3u8
 #EXTINF:-1,MTV AZƏRBAYCAN 
 https://str.yodacdn.net/mtvaz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, DÜNYA TV
