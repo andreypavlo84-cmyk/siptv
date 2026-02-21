@@ -236,6 +236,10 @@ http://tv.devtv.nl:80/Trexx/Trex1fhgd2z/5907
 http://tv.devtv.nl:80/Trexx/Trex1fhgd2z/5904
 #EXTINF:-2, KARDELEN TV 
 https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
+#EXTINF:-1, KANAL 15
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:-1,KANAL 19
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD",Al Arabiya 
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaBusiness.ae@SD",Al Arabiya Business
