@@ -102,10 +102,18 @@ http://cdn-stv.yayin.com.tr:80/stv/stv/playlist.m3u8
 https://str.yodacdn.net/vip/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Rusiya",1 канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1,RUSSİA 24
+https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
 #EXTINF:-1 tvg-id="STSLove.ru@SD",СТС Love
 http://31.148.48.15/STS_Love/index.m3u8
 #EXTINF:-1 tvg-id="Che.ru@SD",Че!
 http://31.148.48.15/Che/index.m3u8
+#EXTINF:-1,İZRU
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1,MİR24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,RBK
+http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Общественные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru@SD",Телекафе
