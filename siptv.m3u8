@@ -342,6 +342,8 @@ http://canliyayin.tv42.com.tr/memfs/288fb8d8-21f6-4be6-b48e-a5ed1606430c.m3u8
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
 #EXTINF:-1,TVDEN
 https://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1, HABERTÜRK 
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1,NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1,TV100
