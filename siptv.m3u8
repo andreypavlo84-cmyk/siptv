@@ -48,6 +48,8 @@ https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 https://str.yodacdn.net/arbgunesh/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,AYAZ TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_400k.m3u8
+#EXTINF:-1,ATV SİNEMA
+https://ref.az/Y7hov
 #EXTINF:-1, GÜNAZ TV 
 https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1,KANAL 35
