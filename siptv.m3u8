@@ -1,5 +1,99 @@
+#EXTINF:-1, AZTV
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, MƏDƏNİYYƏT TV
 http://str1.yodacdn.net/medeniyyettele/playlist.m3u8
+#EXTINF:-1, İCTİMAİ TV
+https://str.yodacdn.net/ictimaitele/tracks-a1/mono.ts.m3u8
+#EXTINF:-1,AZAD AZƏRBAYCAN TV 
+https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,SPACE TV
+https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, XƏZƏR TV
+https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ARB TV
+https://str.yodacdn.net/arb/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,KANAL S
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1,MTV AZƏRBAYCAN 
+https://str.yodacdn.net/mtvaz/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, DÜNYA TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:-1,ELTV
+https://str.yodacdn.net/eltv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, KƏPƏZ TV 
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1, NAXÇIVAN TV
+https://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,APA TV
+https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, ARB24
+https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, BAKU TV
+https://str.yodacdn.net/bakutv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, REAL TV
+https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,HABER GLOBAL 
+https://str.yodacdn.net/haberglobal/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, BİZNES TV
+https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,CBC Азербайджан 
+https://str.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, İDMAN TV
+https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ARB GÜNƏŞ 
+https://str.yodacdn.net/arbgunesh/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_400k.m3u8
+#EXTINF:-1,KANAL 35
+https://str.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,LİVETV
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1,TMBTV AZ
+https://str.yodacdn.net/tmbaz/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,TV1 
+https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
+#EXTINF:-1, WOSTOK TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1,ALZAHRA
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
+#EXTINF:-1,KANAL 5
+https://win8.yayin.com.tr/qurantv/qurantv/playlist.m3u8
+#EXTINF:-1,KANAL 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1,SON ÜMİD TV
+https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
+#EXTINF:-1, VİLAYƏT TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1,ALVİN TV 
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1,AZSTAR
+http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
+#EXTINF:-1,FTV
+https://stream.ftv.az/live/ftv.m3u8
+#EXTINF:-1, İSMAYILLI TV
+https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
+#EXTINF:-1,KN MUSİC TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,KÖNÜL TV
+http://cdn-konultvazerbaijan.yayin.com.tr:80/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1,KTV MUSİC 
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:-1, MAHNI TV
+http://xantv.site:41480/MahniTV/video.m3u8
+#EXTINF:-1,MUSİC AZERBAİJAN
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1,MUSİC AZERBAİJAN HİT
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+#EXTINF:-1,RİHAT TV
+https://cdn4.yayin.com.tr/rihattv/index.m3u8
+#STV MUSİC 
+http://cdn-stv.yayin.com.tr:80/stv/stv/playlist.m3u8
+#EXTINF:-1,SƏS TV
+http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
+#EXTINF:-1,TV36
+http://cdn-stv.yayin.com.tr:80/stv/stv/playlist.m3u8
+#EXTINF:-1,VİP HD
+https://str.yodacdn.net/vip/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Rusiya",1 канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="STSLove.ru@SD",СТС Love
