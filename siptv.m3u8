@@ -198,6 +198,14 @@ https://str.yodacdn.net/tmbtr/tracks-v1a1/mono.ts.m3u8
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1, ARAŞ TV
 https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8
+#EXTINF:-1, AKSU TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1,ART WORLD 
+https://live.artidijitalmedya.com/artidijital_artworld/artworld/playlist.m3u8
+#EXTINF:-1,ART AMASYA 
+https://streams.uzunmuhalefet.com/stream/bda64054-2b0b-4c15-b29e-be7b5beb02d0.m3u8
+#EXTINF:-1,ALANYA POST 
+https://win1.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1,EGEMAX TV
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
 #EXTINF:-1,KOZA TV
