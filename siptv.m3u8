@@ -222,10 +222,18 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 #EXTINF:-1,EGEMAX TV
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
+#EXTINF:-1,HABER 61
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist_w894465842_b1796000.m3u8
+#EXTINF:-1,GÖZDE TV
+https://yayin1.canlitv.fun/live/gozdetv.stream/chunklist_w955932477.m3u8
+#EXTINF:-1,KON TV
+https://streams.uzunmuhalefet.com/stream/b9473b85-d7bf-4129-b148-d2c079b18bf8.m3u8
 #EXTINF:-1,KOZA TV
 http://tv.devtv.nl:80/Trexx/Trex1fhgd2z/5907
 #EXTINF:-1,KADİRGA 
 http://tv.devtv.nl:80/Trexx/Trex1fhgd2z/5904
+#EXTINF:-2, KARDELEN TV 
+https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD",Al Arabiya 
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaBusiness.ae@SD",Al Arabiya Business
