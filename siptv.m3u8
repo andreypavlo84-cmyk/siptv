@@ -346,6 +346,8 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
 https://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1,TRT HABER 
 https://tv.ensonhaber.com/trthaber/trthaber.m3u8
+#EXTINF:-1,AHABER
+http://zafertv85.shop:8080/dlk1926/dlk.1926/20768
 #EXTINF:-1, HABERTÜRK 
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1,HABER GLOBAL 
