@@ -427,6 +427,8 @@ http://31.148.48.15/Feniks_plus_kino/index.m3u8
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlWoustaTV.ae@SD",Al Wousta TV 
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1,ALMARİAH
+https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiTV.ae@SD",Abu Dhabi TV 
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae@HD",Abu Dhabi Emirates
