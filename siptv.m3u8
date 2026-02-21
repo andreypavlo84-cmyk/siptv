@@ -333,6 +333,8 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
 https://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1,AKİT TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1, BENGÜ TÜRK 
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD",Al Arabiya 
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaBusiness.ae@SD",Al Arabiya Business
