@@ -86,8 +86,8 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:-1,RİHAT TV
 https://cdn4.yayin.com.tr/rihattv/index.m3u8
-#STV MUSİC 
-http://cdn-stv.yayin.com.tr:80/stv/stv/playlist.m3u8
+#EXTINF:-1,STV MUSİC 
+https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1,SƏS TV
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
 #EXTINF:-1,TV36
