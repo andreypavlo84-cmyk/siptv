@@ -104,6 +104,8 @@ https://cdn4.yayin.com.tr/rihattv/index.m3u8
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1,SƏS TV
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
+#EXTINF:-1,ŞTV
+https://ref.az/N5KuH
 #EXTINF:-1,TV36
 http://cdn-stv.yayin.com.tr:80/stv/stv/playlist.m3u8
 #EXTINF:-1,VİP HD
