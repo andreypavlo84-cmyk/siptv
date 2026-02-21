@@ -44,6 +44,8 @@ https://str.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
 http://ott.server-iptv.live/5011/video.m3u8?token=Ceba8e4412
 #EXTINF:-1, İDMAN TV
 https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, SPORT TV 
+https://ref.az/9ius7
 #EXTINF:-1,ARB GÜNƏŞ 
 https://str.yodacdn.net/arbgunesh/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,AYAZ TV
