@@ -562,6 +562,48 @@ http://31.148.48.15/Sochi_HD/index.m3u8
 http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru@SD",Феникс плюс Кино
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
+#EXTINF:-1,İRİB 1 🇮🇷
+https://live-azd1104.telewebion.ir/ek/tv1/live/1080p/index.m3u8
+#EXTINF:-1,İRİB 2
+https://live-azd1105.telewebion.ir/ek/tv2/live/1080p/index.m3u8
+#EXTINF:-1,İRİB 3
+https://live-azd1102.telewebion.ir/ek/tv3/live/1080p/index.m3u8
+#EXTINF:-1,İRİB 4
+https://live-azd1105.telewebion.ir/ek/tv4/live/576p/index.m3u8
+#EXTINF:-1,İRİB 5
+https://live-azd1107.telewebion.ir/ek/tehran/live/576p/index.m3u8
+#EXTINF:-1, AMOZESH 
+https://live-azd1102.telewebion.ir/ek/amouzesh/live/576p/index.m3u8
+#EXTINF:-1,NASİM
+https://live-azd1105.telewebion.ir/ek/nasim/live/1080p/index.m3u8
+#EXTINF:-1,QURAN TV
+https://live-azd1106.telewebion.ir/ek/quran/live/1080p/index.m3u8
+#EXTINF:-1,SALAMAT TV
+https://live-azd1102.telewebion.ir/ek/salamat/live/576p/index.m3u8
+#EXTINF:-1,OMİD TV
+https://live-azd1107.telewebion.ir/ek/omid/live/720p/index.m3u8
+#EXTINF:-1,OFOGH 
+https://live-azd1105.telewebion.ir/ek/ofogh/live/1080p/index.m3u8
+#EXTINF:-1,İRİNN 
+https://live-azd1105.telewebion.ir/ek/irinn/live/1080p/index.m3u8
+#EXTINF:-1,İRİNN 2
+https://live-azd1106.telewebion.ir/ek/irinn2/live/576p/index.m3u8
+#EXTINF:-1,VARZESH
+https://live-azd1107.telewebion.ir/ek/varzesh/live/1080p/index.m3u8
+#EXTINF:-1,BARAN TV
+https://live-azd1105.telewebion.ir/ek/baran/live/576p/index.m3u8
+#EXTINF:-1,İFİLM
+https://live-azd1103.telewebion.ir/ek/ifilm/live/1080p/index.m3u8
+#EXTINF:-1, MOSTANAD 
+https://live-azd1104.telewebion.ir/ek/mostanad/live/1080p/index.m3u8
+#EXTINF:-1,NAMAYESH
+https://live-azd1103.telewebion.ir/ek/namayesh/live/480p/index.m3u8
+#EXTINF:-1,POOYA
+https://live-azd1101.telewebion.ir/ek/pooya/live/1080p/index.m3u8
+#EXTINF:-1,SABALAN 
+https://live-azd1101.telewebion.ir/ek/sabalan/live/576p/index.m3u8
+#EXTINF:-1,TAMASHA
+https://live-azd1103.telewebion.ir/ek/hdtest/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="AjmanTV.ae@SD",Ajman TV🇦🇪
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlWoustaTV.ae@SD",Al Wousta TV 
