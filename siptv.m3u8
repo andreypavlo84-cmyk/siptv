@@ -505,6 +505,8 @@ http://31.148.48.15/Zhivi/index.m3u8
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1, DREAM TÜRK 
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1,FON MUSİC 
+https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD",Первый Музыкальный Канал (576p)
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD",Первый Музыкальный Канал HD
