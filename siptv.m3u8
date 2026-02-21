@@ -342,6 +342,8 @@ https://akittv-live.ercdn.net/akittv/akittv.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1,HALKTV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1,İLKE TV
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1,MK HABER
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 #EXTINF:-1,DHA
