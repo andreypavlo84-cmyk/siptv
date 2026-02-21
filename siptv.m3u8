@@ -410,10 +410,22 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1,İNEWS
 https://live.i-news.tv/hls/stream.m3u8
+#EXTINF:-1,RT ARABİA
+https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+#EXTINF:-1,SYRİA TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae@SD",Sky News Arabia
 https://stream.skynewsarabia.com/ott/ott.m3u8
 #EXTINF:-1,AFGHAN İNT
 https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1,İRAN İNT
+https://live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+#EXTINF:-1, KURDİSTAN 24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1,RUDAW
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1,VOA PERSİAN 
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 #EXTINF:-1 tvg-id="Football.ru@SD",Футбол
 http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru@HD",Матч! Страна
