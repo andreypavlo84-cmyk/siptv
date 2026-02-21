@@ -278,6 +278,8 @@ https://streams.uzunmuhalefet.com/stream/288404e1-7bf2-40da-8303-75706bccdcb4.m3
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1,ER TV
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1,ES TV
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 #EXTINF:-1,EGEMAX TV
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
 #EXTINF:-1,HABER 61
@@ -338,6 +340,8 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1, BENGÜ TÜRK 
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1,HALKTV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1,DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD",Al Arabiya 
