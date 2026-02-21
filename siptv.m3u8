@@ -352,6 +352,8 @@ https://edge.socialsmart.tv/neohaber/bant1/chunks.m3u8
 https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1, EKOTÜRK 
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=314426&extension=ts
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD",Al Arabiya 
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaBusiness.ae@SD",Al Arabiya Business
