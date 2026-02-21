@@ -436,10 +436,20 @@ http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48894.ts
 http://tv.rapidstreamz.workers.dev/?ID=http://zx.visiona.top:8081/sports/bein1tr/playlist.m3u8
 #EXTINF:-1, EKOL SPOR 
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:-1,HT SPOR 
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+#EXTINF:-1,SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1,TR SPOR 
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.ru@SD",Футбол
 http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru@HD",Матч! Страна
 http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1,SPORT 2
+http://87.246.54.249:8080/ArenaSport2/index.m3u8
+#EXTINF:-1, SPORT 3
+http://87.246.54.249:8080/ArenaSport3/index.m3u8
 #EXTINF:-1 tvg-id="Ani.ru@SD",Ani
 http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru@HD",Карусель
