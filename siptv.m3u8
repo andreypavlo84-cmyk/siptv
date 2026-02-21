@@ -41,15 +41,13 @@ https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,CBC Азербайджан 
 https://str.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,CBC SPORT 
-https://ref.az/KfJq4
+http://109.205.166.68/server33/hls/cbc_sport.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:-1, İDMAN TV
 https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,ARB GÜNƏŞ 
 https://str.yodacdn.net/arbgunesh/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,AYAZ TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_400k.m3u8
-#EXTINF:-1,ATV SİNEMA
-https://ref.az/Y7hov
 #EXTINF:-1, GÜNAZ TV 
 https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1,KANAL 35
@@ -69,7 +67,7 @@ https://win8.yayin.com.tr/qurantv/qurantv/playlist.m3u8
 #EXTINF:-1,KANAL 12
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:-1,SON ÜMİD TV
-https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
+https://cdn-sonumidt nnn.     fjdjdjnbidtv/sonumidtv/playlist.m3u8
 #EXTINF:-1, VİLAYƏT TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1,ALVİN TV 
@@ -78,14 +76,8 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
 #EXTINF:-1,FTV
 https://stream.ftv.az/live/ftv.m3u8
-#EXTINF:-1,D MUSİC 
-https://ref.az/VindK
-#EXTINF:-1,D SİNEMA
-https://ref.az/YSsdG
 #EXTINF:-1, İSMAYILLI TV
 https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
-#EXTINF:-1,K65
-https://ref.az/xr7n3
 #EXTINF:-1,KN MUSİC TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KÖNÜL TV
@@ -104,8 +96,6 @@ https://cdn4.yayin.com.tr/rihattv/index.m3u8
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1,SƏS TV
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
-#EXTINF:-1,ŞTV
-https://ref.az/N5KuH
 #EXTINF:-1,TV36
 http://cdn-stv.yayin.com.tr:80/stv/stv/playlist.m3u8
 #EXTINF:-1,VİP HD
@@ -144,6 +134,53 @@ https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1,O'zbekiston
+https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,O'zbekiston 24
+https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,O'zbekiston Tarixi
+https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, BİZ TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
+#EXTINF:-1,Dasturxon TV
+https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Dunyo bo'ylab
+https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Milliy
+https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,MY5
+https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Mahalla
+https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Madaniyat va ma'rifat
+https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Renessans TV
+https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="SevimliTV.uz@SD",Sevimli TV
+https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="Toshkent.uz@SD",Toshkent
+https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,UzReport TV 
+https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Yoshlar
+https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Zo'r TV 
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BIZ Cinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:-1,BİZ Music
+#EXTINF:-1 tvg-id="BIZMusic.uz@SD",BIZ Music (1080p)
+#EXTINF:-1,BOLAJON TV
+https://stream8.cinerama.uz/1007/playlist.m3u8
+#EXTINF:-1,FTV
+https://stream8.cinerama.uz/1018/playlist.m3u8
+#EXTINF:-1,Kinoteatr
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Qaraqalpaqstan
+https://stream8.cinerama.uz/1467/playlist.m3u8
+#EXTINF:-1,Navo 
+https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1,TRT 2
