@@ -402,10 +402,18 @@ https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/64
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1,ALMASAR
 https://starmenajo.com/hls/almasar/index.m3u8
+#EXTINF:-1,AL24DZ
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1,BBC NEWS ARABİA 
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="CNBCArabiya.ae@SD",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1,İNEWS
+https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae@SD",Sky News Arabia
 https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:-1,AFGHAN İNT
+https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Football.ru@SD",Футбол
 http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru@HD",Матч! Страна
