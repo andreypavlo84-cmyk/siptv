@@ -180,7 +180,6 @@ https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
 https://stream8.cinerama.uz/1467/playlist.m3u8
 #EXTINF:-1,Navo 
 https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
-
 #EXTINF:-1,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1,TRT 2
@@ -405,6 +404,8 @@ http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="Общественные",Красная линия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DİYANET TV 
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1, PLAY TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-id="A1.ru@SD",Amedia 1
