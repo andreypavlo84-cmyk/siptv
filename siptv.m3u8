@@ -230,6 +230,8 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
 #EXTINF:-1,ŞABAN TV
 https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
+#EXTINF:-1, YANSIMA SİNEMA 
+http://cdn4.yayin.com.tr:80/yansimasinematv/video.m3u8
 #EXTINF:-1,CNN TÜRK 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49262
 #EXTINF:-1,GZT
