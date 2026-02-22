@@ -238,6 +238,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/refs/heads/main/streams
 https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
 #EXTINF:-1,TVDEN
 https://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1,VAN GÖLÜ
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 #EXTINF:-1, YANSIMA SİNEMA 
 http://cdn4.yayin.com.tr:80/yansimasinematv/video.m3u8
 #EXTINF:-1,CNN TÜRK 
