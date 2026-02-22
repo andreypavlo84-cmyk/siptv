@@ -649,6 +649,8 @@ http://31.148.48.15/Poehali/index.m3u8
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1,PERVİY KRIM
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1,RJD
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD",Русский Бестселлер
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD",Русский Детектив
