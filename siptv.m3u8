@@ -530,6 +530,8 @@ http://31.148.48.15/Ani/index.m3u8
 http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1, KARUSEL İNT
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1, MULTİMANİYA 
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru@SD",STS kids
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-id="Ryzhiy.ru@SD",Рыжий
@@ -623,6 +625,10 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1,MİLLET
 https://live1.1tvcrimea.ru/milletlive.m3u8
+#EXTINF:-1,MİR BELQORİYA
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,MTV VOLQOQRAD 
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Poehali.ru@SD",Поехали!
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD",Русский Бестселлер
