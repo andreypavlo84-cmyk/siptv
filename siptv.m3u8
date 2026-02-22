@@ -112,6 +112,8 @@ https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
 #EXTINF:-1 tvg-id="STSLove.ru@SD",СТС Love
 http://31.148.48.15/STS_Love/index.m3u8
+#EXTINF:-1, DOMASHNİ İNT
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 #EXTINF:-1 tvg-id="Che.ru@SD",Че!
 http://31.148.48.15/Che/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD
@@ -592,6 +594,8 @@ https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 http://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1,BELQOROD
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1,ENİSEY
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Evrokino.ru@SD",Еврокино
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru@SD",Феникс плюс Кино
