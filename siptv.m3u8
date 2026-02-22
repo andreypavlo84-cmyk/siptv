@@ -167,6 +167,8 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1,KİNO 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="India.ru@SD",Индия
+#EXTINF:-1,PERETS İNT
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 #EXTINF:-1, PATRİOT 
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1,PRO 1000
