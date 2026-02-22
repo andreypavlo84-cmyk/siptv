@@ -122,6 +122,50 @@ https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1,VİVA TV RUSSİA
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
+#EXTINF:-1, O'ZBEKİSTON 1
+https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, O'ZBEKİSTON 24
+https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, O'ZBEKİSTON TORİXİ 
+https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,BİZ TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
+#EXTINF:-1,BİZ TV CİNEMA
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:-1,DONYA BOYLE
+https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, KİNOTEATR 
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,MY5
+https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,MİLLY TV
+https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, MAHALLA 
+https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, MADANİYYAT MARİFAT
+https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
+#EXTİNF:-1,RENESSANS 
+https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, SEVİMLİ TV
+https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, TOSHKENT 
+https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, YOSHLAR 
+https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,ZOR TV
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+#EXTINF:-1, UZREPORT 
+https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,BOLAJON 
+https://stream8.cinerama.uz/1007/playlist.m3u8
+#EXTINF:-1,DASTORXON
+https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,FTV
+https://stream8.cinerama.uz/1018/playlist.m3u8
+#EXTINF:-1, QARAQALPASTAN
+https://stream8.cinerama.uz/1467/playlist.m3u8
+#EXTINF:-1,NAVO
+https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,AFRİCA 24 ENGLİSH 
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 #EXTINF:-1,AFRİCA NEWS FRENCH
