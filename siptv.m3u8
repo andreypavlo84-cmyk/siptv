@@ -132,8 +132,6 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="UnknownRussia.ru@SD",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1,İZRU
@@ -159,6 +157,8 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1,KİNO 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="India.ru@SD",Индия
+#EXTINF:-1,PRO 1000
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Rusiya",RTVi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -543,6 +543,8 @@ http://31.148.48.15/Zoo_TV/index.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1,FON MUSİC
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
+#EXTINF:-1,SONG TV RUSSİA
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD",Первый Музыкальный Канал (576p)
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD",Первый Музыкальный Канал HD
