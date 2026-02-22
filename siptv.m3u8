@@ -262,6 +262,8 @@ https://canli.tvden.com.tr/hls/live.m3u8
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 #EXTINF:-1, VİZİON PRİME 
 https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
+#EXTINF:-1, VİZİON TÜRK 
+https://tv191.radyotelekom.com.tr:3760/stream/play.m3u8
 #EXTINF:-1, YANSIMA SİNEMA 
 http://cdn4.yayin.com.tr:80/yansimasinematv/video.m3u8
 #EXTINF:-1,CNN TÜRK 
