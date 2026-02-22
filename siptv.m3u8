@@ -582,6 +582,10 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-id="A2.ru@SD",Amedia 2
 http://31.148.48.15/A2/index.m3u8
+#EXTINF:-1,AİS TV
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1,ARİS TV 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1 tvg-id="Evrokino.ru@SD",Еврокино
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="IllusionPlus.ru@SD",Иллюзион+
