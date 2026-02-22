@@ -166,6 +166,28 @@ https://stream8.cinerama.uz/1018/playlist.m3u8
 https://stream8.cinerama.uz/1467/playlist.m3u8
 #EXTINF:-1,NAVO
 https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1,ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1,ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+#EXTINF:-1,KANAL D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7te08khb0uxy&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:-1,TV2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:-1,STAR
+https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
+#EXTINF:-1,KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1,TV 8,5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:1,BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1,360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1,TV4
+http://tv.devtv.nl:80/Trexx/Trex1fhgd2z/5890
 #EXTINF:-1,AFRİCA 24 ENGLİSH 
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 #EXTINF:-1,AFRİCA NEWS FRENCH
