@@ -224,6 +224,8 @@ https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1,BONCUK
 http://104.238.23.221/BoncukTV/live/index.m3u8
+#EXTINF:-1,BEĞEN TV
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1,DİZİ TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1,EN
