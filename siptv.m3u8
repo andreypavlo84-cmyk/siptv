@@ -184,10 +184,19 @@ https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-fr
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1,AFRİCA 24
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-
 #EXTINF:-1,FASHİON TV
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1,FRANCE 2 🇫🇷
 http://69.64.57.208/france2/mono.m3u8
 #EXTINF:-1,FRANCE 5
 http://69.64.57.208/france5/mono.m3u8
+#EXTINF:-1,ALMAMLAKA 
+https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8
+#EXTINF:-1,AlhaqeqaAldawlia
+https://ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:-1,AltaghierTV
+https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
+#EXTINF:-1,EXTINF:-1,
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1,JORDAN TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
