@@ -586,6 +586,10 @@ http://31.148.48.15/A2/index.m3u8
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1,ARİS TV 24
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1,ASTRAXAN 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1,BELQOROD
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-id="Evrokino.ru@SD",Еврокино
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="IllusionPlus.ru@SD",Иллюзион+
