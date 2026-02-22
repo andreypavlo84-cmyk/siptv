@@ -190,6 +190,8 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,TV4
 http://tv.devtv.nl:80/Trexx/Trex1fhgd2z/5890
+#EXTINF:-1,CNN TÜRK 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49262
 #EXTINF:-1,AFRİCA 24 ENGLİSH 
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 #EXTINF:-1,AFRİCA NEWS FRENCH
