@@ -246,6 +246,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/refs/heads/main/streams
 https://tv191.radyotelekom.com.tr:3943/stream/play.m3u8
 #EXTINF:-1,FİLM BOX
 https://tv191.radyotelekom.com.tr:3468/stream/play.m3u8
+#EXTINF:-1,FİLM BOX TÜRK 
+https://tv191.radyotelekom.com.tr:3914/stream/play.m3u8
 #EXTINF:-1,KANAL 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
 #EXTINF:-1,KANAL 32
