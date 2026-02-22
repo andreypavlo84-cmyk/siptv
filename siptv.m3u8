@@ -226,6 +226,10 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 http://104.238.23.221/BoncukTV/live/index.m3u8
 #EXTINF:-1,BEĞEN TV
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1,CİNE 6
+https://tv191.radyotelekom.com.tr:3614/stream/play.m3u8
+#EXTINF:-1,CİNE 6 PREMİER 
+https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 #EXTINF:-1,DİZİ TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1,DİZİ BOX
