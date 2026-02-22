@@ -100,6 +100,7 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1, CİNEMA 
 http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1,HTB SERİAL
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-HTB HİT
 https://cdn.ntv.ru/th_hit/playlist.m3u8
@@ -107,7 +108,8 @@ https://cdn.ntv.ru/th_hit/playlist.m3u8
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1,HTB STYLE
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1,HTB SERİAL
+#EXTINF:-1,FON MUSİC 
+https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 #EXTINF:-1, PATRİOT
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1,SONG TV RUSSİA
