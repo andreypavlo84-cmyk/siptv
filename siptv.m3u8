@@ -64,6 +64,8 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1, WOSTOK TV
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1,STV MUSİC 
+https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1,PERVİY KANAL
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,RUSSİA 1
