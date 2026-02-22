@@ -264,6 +264,8 @@ https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
 #EXTINF:-1,NR 1 TÜRK 
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:-1, YANSIMA MÜZİK
+http://cdn4.yayin.com.tr/yansimamedyatv/video.m3u8
 #EXTINF:-1,FASHİON TV
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1,KANALD 2
