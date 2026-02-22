@@ -126,6 +126,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1,AFRİCA 24 ENGLİSH 
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1,AFRİCA NEWS FRENCH
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:-1,AFRİCA 24 SPORT 
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
