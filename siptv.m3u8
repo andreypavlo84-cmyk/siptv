@@ -62,3 +62,58 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1, WOSTOK TV
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1,PERVİY KANAL
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1,CTC İNT
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1,CTC LOVE
+https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
+#EXTINF:-1,HTB
+https://cdn.ntv.ru/ntv1/playlist.m3u8
+#EXTINF:-1,MİR TV
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,MİR 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,RENTV İNT
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1,PERETS İNT
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1,PYATNİTSA
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1, PYATNİTSA İNT
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:-1,THT İNT
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1,THT4 İNT
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1,TVCENTER
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1, ZVEZDA 
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1, İZVESTİYA 
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1,RBK
+http://online-video.rbc.ru/online2/rbctv.m3u8
+#EXTINF:-1,360°
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1,BİG ASİA
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1, CİNEMA 
+http://catchup.videoline.ru/cinema/playlist.m3u8
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-HTB HİT
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1,HTB PRAVO
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1,HTB STYLE
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1,HTB SERİAL
+#EXTINF:-1, PATRİOT
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1,SONG TV RUSSİA
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+#EXTINF:-1,SHANSON
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1,VİVA TV RUSSİA
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
+
