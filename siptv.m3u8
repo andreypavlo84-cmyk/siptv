@@ -571,9 +571,6 @@ http://31.148.48.15/Bridge_TV_HD/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru@SD",Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="Общественные",Красная линия
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DİYANET TV 
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1,DOST TV
@@ -606,10 +603,14 @@ http://31.148.48.15/Feniks_plus_kino/index.m3u8
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1,K16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTIN:-1,KRIM 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="KVNTV.ru@SD",КВН ТВ
 http://31.148.48.15/KVN_TV/index.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru@SD",Кинопоказ
 http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1,KRASNAYA LİNE
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1,QUBERNİ SAMARA
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Poehali.ru@SD",Поехали!
