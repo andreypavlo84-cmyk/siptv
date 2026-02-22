@@ -130,4 +130,5 @@ https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:-1,AFRİCA 24 SPORT 
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-
+#EXTINF:-1, EURONEWS ENGLİSH 
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
