@@ -1,2 +1,64 @@
-#EXTINF:-1, AZTV
-https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,AZTV
+http://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1, MƏDƏNİYYƏT TV
+http://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1, İDMAN TV 
+http://str.yodacdn.net/idmantele/index.m3u8
+#EXTINF:-1, İCTİMAİ TV 
+http://str.yodacdn.net/ictimaitele/index.m3u8
+#EXTINF:-1,REAL TV
+http://109.205.166.68/server125/realtv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+#EXTINF:-1, AZAD AZƏRBAYCAN TV 
+http://109.205.166.68/server125/realtv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+#EXTINF:-1,SPACE TV 
+http://str.yodacdn.net/space/index.m3u8
+#EXTINF:-1, XƏZƏR TV 
+http://135.125.235.54/11449/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,ARB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1,ARB 24
+http://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:-1,ARB GÜNƏŞ 
+http://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:-1,APA TV
+https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,BAKU TV 
+http://str.yodacdn.net/bakutv/index.m3u8
+#EXTINF:-1, BİZNES TV
+http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,EL TV YEVLAX 
+https://str.yodacdn.net/eltv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,KƏPƏZ TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1, KANAL S
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1,MTV AZƏRBAYCAN 
+http://str.yodacdn.net/mtvaz/index.m3u8
+#EXTINF:-1, DÜNYA TV
+http://135.125.235.54/11455/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1, GÜNAZ TV
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1, KANAL 35
+http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+#EXTINF:-1, QAFQAZ TV
+http://str.yodacdn.net/qafkaz/index.m3u8
+#EXTINF:-1, NAXÇIVAN TV 
+http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
+#EXTINF:-1,FTV
+https://stream.ftv.az/live/ftv.m3u8
+#EXTINF:-1, KÖNÜL TV
+http://cdn-konultvazerbaijan.yayin.com.tr:80/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1,KN TV MUSİC 
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,LİVE TV
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1, MAHNI TV 
+http://xantv.site:41480/MahniTV/video.m3u8
+#EXTINF:-1,MUSİC AZERBAİJAN 
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1, VİLAYƏT TV 
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1, WOSTOK TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
