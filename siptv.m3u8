@@ -224,6 +224,8 @@ https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 http://104.238.23.221/BoncukTV/live/index.m3u8
 #EXTINF:-1,DİZİ TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1,EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1,EGE MAX
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
 #EXTINF:-1,ŞABAN TV
