@@ -657,6 +657,8 @@ http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD",Русский Роман
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1,S1
+https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1 tvg-id="Teatr.ru@SD",Театр
 http://31.148.48.15/Sochi_HD/index.m3u8
 #EXTINF:-1 tvg-id="Teleputeshestviya.ru@SD",Телепутешествия
